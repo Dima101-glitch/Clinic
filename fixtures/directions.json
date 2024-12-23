@@ -1,0 +1,218 @@
+[
+  {
+    "model": "info.direction",
+    "pk": 6,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Cardiology",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 7,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Pediatrics",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 8,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Surgery",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 9,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Ophthalmolog",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 10,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Neurology",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 11,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Gynecology",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 12,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Dermatology",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 13,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Therapy",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 14,
+    "fields": {
+      "name": "Medical Specializations",
+      "slug": "Orthopedics",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 15,
+    "fields": {
+      "name": "Diagnostic Services",
+      "slug": "USD(ultrasound)",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 16,
+    "fields": {
+      "name": "Diagnostic Services",
+      "slug": "Blood Analysis",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 17,
+    "fields": {
+      "name": "Diagnostic Services",
+      "slug": "Radiology",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 18,
+    "fields": {
+      "name": "Diagnostic Services",
+      "slug": "MRI(magnetic resonance imaging)",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 19,
+    "fields": {
+      "name": "Diagnostic Services",
+      "slug": "ECG(electrocardiography)",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 20,
+    "fields": {
+      "name": "Rehabilitation and Physiotherapy",
+      "slug": "Physical Therapy",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 21,
+    "fields": {
+      "name": "Rehabilitation and Physiotherapy",
+      "slug": "Massage",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 22,
+    "fields": {
+      "name": "Rehabilitation and Physiotherapy",
+      "slug": "Psychological Rehabilitation",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 23,
+    "fields": {
+      "name": "Specialized Areas",
+      "slug": "Treatment of Children",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 24,
+    "fields": {
+      "name": "Specialized Areas",
+      "slug": "Sports Medicine",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 25,
+    "fields": {
+      "name": "Specialized Areas",
+      "slug": "Aesthetic Medicine(Cosmetology)",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 26,
+    "fields": {
+      "name": "Specialized Areas",
+      "slug": "Alcoholism and Drug Addiction",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 27,
+    "fields": {
+      "name": "Additional Services",
+      "slug": "Online Consultations",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 28,
+    "fields": {
+      "name": "Additional Services",
+      "slug": "Dietology",
+      "sort_number": 0
+    }
+  },
+  {
+    "model": "info.direction",
+    "pk": 29,
+    "fields": {
+      "name": "Additional Services",
+      "slug": "Vaccination",
+      "sort_number": 0
+    }
+  }
+]
